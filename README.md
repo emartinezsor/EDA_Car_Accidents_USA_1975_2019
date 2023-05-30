@@ -13,4 +13,5 @@
 
 - accident.CSV -> Conjunto de datos
 - 1975-2019 Fatality Analysis Reporting System (FAROS) Analytical User’s Manual.pdf -> Documento explicativo de los datos.
-- 
+- PEC1_Erika_MartinezSoria.ipynb -> Desarrollo del EDA en Jupyter Notebooks.
+- PEC1_Erika_MartinezSoria.ipynb -> Desarrollo del EDA en un documento html.
